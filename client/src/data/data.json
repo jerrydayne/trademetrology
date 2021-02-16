@@ -1,0 +1,141 @@
+{
+    "Header": {
+
+        "title": "Federal Ministry of Industry, Trade and Investment",
+        "subTitle": "Weights and Measures Department",
+        "paragraph": "enhancing service delivery in a manner that will stimulate the growth of thedomestic economy for self-reliance ."
+
+    },
+    "About": {
+        "paragraph1": "Federal Ministry of Industry, Trade and Investment was created to play a decisive role in the diversification of the resource base of the economy by promoting trade and investment with special emphasis on increased production and export of non-oiland gas products that will lead to wealth and job creation, poverty reduction andensure enhanced service delivery in a manner that will stimulate the growth of thedomestic economy for self-reliance and export and its integration into the globalmarket taking full advantage of globalization.",
+        "paragraph2": "The Weights and Measures Department is a department of the Federal Ministry ofIndustry, Trade and Investment, having the mandate of ensuring that all commercial transactions involving measurement are fair, accurate and legal, with aview to protecting the consumers by implementing the Weights and Measures Act of the Federal Republic of Nigeria, Cap W3 LFN 2004, contributing to the Trade and Investment facilitation drive of the parent ministry and the realization of the objectives of the Legal Metrology program being implemented by the Federal Government of Nigeria.",
+        "mission" : "To formulate and implement policies and programmes to attract investment, boost industrialization, increase trade and exports and develop eenterprises",
+        "vision" : "To promote economic growth, create jobs and generate wealth",
+        "Nigerco" : "Nigerco Nigeria Limited is an indigenous company specializing in Consultancy Services in the establishment of Custody Transfer Accuracy Measurement, Equipment installation, Calibration and Verification for Off–shore and On-shore Hydrocarbon (Crude Oil and Gas) Value Chain Monitoring and Control in areas of Pre-shipment Inspection, Production Facilities Metering and Physical and Financial Flow controls. The company was incorporated in 1987 to offer Consultancy, Engineering, Legal Metrology Services, Pre-Shipment Inspection of Export and Allied services in the oil /gas industry and other sectors of the Nigerian economy. ",
+        "Why": [    
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Permit Tracking",
+            "text": "For tracing and tracking of issued export permit for: Pre-shipment, Customs and International Trade."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Instruments Registration",
+            "text": "IT IS AN OFFENSE PUNISHABLE BY LAW IF INSTRUMENTS USED FOR TRADE IN THE FEDERAL REPUBLIC OF NIGERIA ARE NOT REGISTERED."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Instrument Certfication",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Export Return",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Export Permit",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consultancy",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Downloads": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Newsline": [{
+            "img": "img/news/coatofarm.png",
+            "title": "BOI TO DISBURSE N5BN FOR AGRO PROCESSING PROJECTS",
+            "text": "The announcement was made during aninter-agency initiative aimed at ensuring efficient gas supply for power generation...."
+        },
+        {
+            "img": "img/news/news.png",
+            "title": "FG APPROVES N213BN FOR POWER INTERVENTION FUND",
+            "text": "The announcement was made during aninter-agency initiative aimed at ensuring efficient gas supply for power generation...."
+        },
+        {
+            "img": "img/news/company.png",
+            "title": "INSECURITY: FOREIGN INVESTMENTS DROP BY N61.58BN",
+            "text": "The announcement was made during aninter-agency initiative aimed at ensuring efficient gas supply for power generation...."
+        },
+        {
+            "img": "img/news/shipping.jpg",
+            "title": "NIGERIA: MINISTRY SEALS OFF NON-COMPLIANT ATMS",
+            "text": "The announcement was made during aninter-agency initiative aimed at ensuring efficient gas supply for power generation...."
+        }
+    ]
+}
